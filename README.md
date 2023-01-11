@@ -39,8 +39,6 @@ The Ethereum Name Service (ENS) is a distributed, open, and extensible naming sy
 We were able to integrate ENS into in our dapp using the Ethers js library to resolve ENS names and avaters.
 
 
-![openpoll](https://firebasestorage.googleapis.com/v0/b/scapula-57ce3.appspot.com/o/telemed%2FScreen%20Shot%202023-01-11%20at%2011.26.45%20AM.png?alt=media&token=4c9e219f-4ece-4ebe-ab7d-24c37e5170b6)
-
 
 
 
